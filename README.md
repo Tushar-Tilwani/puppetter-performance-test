@@ -34,9 +34,9 @@ You should see a JSON like this:
 ```
 
 Understanding metrics
-https://www.w3.org/TR/navigation-timing/
-https://developer.mozilla.org/en-US/docs/Web/API/PerformanceTiming
+* https://www.w3.org/TR/navigation-timing/
+* https://developer.mozilla.org/en-US/docs/Web/API/PerformanceTiming
 
 
 Code kinda stolen from:
-https://michaljanaszek.com/blog/test-website-performance-with-puppeteer
+* https://michaljanaszek.com/blog/test-website-performance-with-puppeteer
