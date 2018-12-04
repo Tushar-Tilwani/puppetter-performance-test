@@ -15,6 +15,8 @@ async function run() {
     await page.evaluate(() => JSON.stringify(window.performance.timing))
   );
 
+  await page.screenshot({path: 'final-state.png'});
+
   const result = extractDataFromPerformanceTiming(
     performanceTiming,
     "responseEnd",

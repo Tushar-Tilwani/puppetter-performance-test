@@ -33,6 +33,8 @@ You should see a JSON like this:
   loadEventEnd: 2553 }
 ```
 
+It will also generate a `final-state.png` image which lets you what was the state of the page when these metrics where measured.  
+
 Understanding metrics
 * https://www.w3.org/TR/navigation-timing/
 * https://developer.mozilla.org/en-US/docs/Web/API/PerformanceTiming
